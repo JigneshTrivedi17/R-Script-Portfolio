@@ -6,4 +6,4 @@ This project performs an exploratory data analysis of the Titanic dataset using 
 
 Project #2 - Interactive Titanic Survival Explorer (Shiny App) 
 This project develops an interactive Shiny application that allows users to explore Titanic survival data dynamically. The app enables filtering by passenger class, gender, and age group, and updates results in real time to display survival rates, filtered datasets, and visualizations. Built using Shiny, dplyr, ggplot2, and plotly, the application demonstrates how data analysis can be transformed into an interactive dashboard for exploring patterns and insights within a dataset.
-Webiste URL for the Shiny App: https://www.shinyapps.io/admin/#/application/16857482
+Webiste URL for the Shiny App: https://jigneshtrivedi.shinyapps.io/Titanic/
